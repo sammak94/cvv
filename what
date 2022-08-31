@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>mohamad's personal site</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <td> <img src="444.JPG" height="300" width="400" alt="meee"></td>
+    <td>
+      <p>
+      <h3>hi, how is it going</h3>
+      <h1>Mohammad Alsammak</h1>
+      <h2>communication engineer and web developer</h2>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Img">the link in blue</a> </p>
+    </td>
+  </table>
+  <hr>
+  <h3>education</h3>
+  <ul>
+
+    <li>communication engineering</li>
+    <li>master in web technologies</li>
+
+  </ul>
+  <hr>
+  <h3>Work exeriance</h3>
+  <ol>
+
+    <li>line subervition</li>
+    <li>web develobment</li>
+  </ol>
+  <hr>
+  <h3>Hobies</h3>
+  <table cellspacing="10">
+    <tr>
+      <td>photogrfy</td>
+      <td>👌👌👌</td>
+    </tr>
+    <tr>
+      <td>swimming</td>
+      <td>👌👌👌👌</td>
+    </tr>
+    <tr>
+      <td>football</td>
+      <td>👍👍</td>
+    </tr>
+  </table>
+  <form action="mailto:ggff@mfm.com" method="post">
+    <hr>
+
+    <h2>contact me</h2>
+        <label>your name: </label>
+
+        <input type="text" name="your name" value="">
+    <br><label>your email:</label>
+    <input type="email" name="your email" id="">
+    <br>
+    <label> yout message</label>
+    <br>
+    <textarea name="name" rows="8" cols="80"></textarea>
+    <br>
+    <input type="submit" name="" id="">
+  </form>
+</body>
+
+</html>
